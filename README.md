@@ -102,7 +102,7 @@ npm run deploy
 - **Asset Handling**: Proper asset path resolution for GitHub Pages
 - **Three.js Compatibility**: Configured to work with large JavaScript bundles
 
-The deployed game will be available at: `https://YOUR_USERNAME.github.io/ai-test3/`
+The deployed game will be available at: [https://bobbydusk.github.io/ai-gen-threejs-rhythm-game/](https://bobbydusk.github.io/ai-gen-threejs-rhythm-game/)
 
 ## Game Mechanics
 
